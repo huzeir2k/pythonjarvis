@@ -1,7 +1,7 @@
 # Automated assistant powered by Python
 
 This program was inspired by the original programmer
-that made this project.
+that made this project, Ashutosh Krishna.
 
 You can find the link [here](https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/).
 
@@ -9,9 +9,9 @@ You can find the link [here](https://www.freecodecamp.org/news/python-project-ho
 
 ##Who made this?
 
-Originally, it was made by someone else.
+Originally, it was made by Ashutosh Krishna.
 However, I decided to make my own
-modifications and my own functions in this program.
+modifications and add my own functions in this program.
 I could've made a more convoluted program but 
 I wasn't in the mood for making it complicated.
 
