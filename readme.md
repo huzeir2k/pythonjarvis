@@ -7,7 +7,7 @@ You can find the link [here](https://www.freecodecamp.org/news/python-project-ho
 
 ---
 
-#Who made this?
+## Who made this?
 
 Originally, it was made by Ashutosh Krishna.
 However, I decided to make my own
@@ -15,7 +15,7 @@ modifications and add my own functions in this program.
 I could've made a more convoluted program but 
 I wasn't in the mood for making it complicated.
 
-#What does this do? 
+## What does this do? 
 
 It automates the stuff you'd normally do when you're 
 on your PC or Mac. The only real difference is
@@ -32,7 +32,7 @@ an interface for it, you can just do `open camera`
 and it will immediately search for the camera and open it
 using another screen as it's interface.
 
-#Where can I download this?
+## Where can I download this?
 
 It has not been turned into an executable
 file yet, but it will be soon. 
